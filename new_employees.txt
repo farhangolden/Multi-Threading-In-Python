@@ -1,0 +1,4 @@
+111	Farhan	Male	85000
+222	Waseem	Male	85000
+333	Musa	Male	76000
+444	Aleem	Male	77000
